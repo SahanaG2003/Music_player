@@ -30,6 +30,10 @@ python music_player.py
 
 ![image](https://github.com/SahanaG2003/Music_player/assets/96765265/0048d891-5f71-4aba-a188-7d64053ccd94)
 
+## Music Player working file
+![image](https://github.com/SahanaG2003/Music_player/assets/96765265/a910a676-24b0-4c37-88ed-4d701fdd7d68)
+
+
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
